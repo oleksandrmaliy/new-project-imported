@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://oleksandrmaliy.github.io/new-project-importede",
+  "homepage": "https://oleksandrmaliy.github.io/new-project-imported",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /new-project-imported/"
